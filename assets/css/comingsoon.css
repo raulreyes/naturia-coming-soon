@@ -13,6 +13,10 @@ b {
     font-weight: 300;
 }
 
+.body{
+    background-color: whitesmoke
+}
+
 .footer-copyright {
     bottom: 0 !important;
 }
